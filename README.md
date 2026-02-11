@@ -162,7 +162,7 @@ Interested in contributing to product-focused teams building intelligent systems
 ## 🤝 Connect
 
 📧 [vinaykumartapela09@gmail.com](mailto:vinaykumartapela09@gmail.com)
-🔗 linkedin.com/in/vinaykumar-tapela-83289b319
+🔗 https://www.linkedin.com/in/vinaykumar-tapela/
 💻 github.com/Vinaykumar21798
 
 ---
