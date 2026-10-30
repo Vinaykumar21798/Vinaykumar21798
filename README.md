@@ -133,21 +133,6 @@ A deep learning application for detecting bone fractures from X-ray images.
 
 `Python` `TensorFlow` `Keras` `EfficientNetB1` `OpenCV` `Flask`
 
----
-
-### 🧪 DermaScan AI
-**Skin Disease Classification | Computer Vision**
-
-A deep learning project for skin disease classification using transfer learning.
-
-- Developed image classification pipelines using pretrained models.
-- Implemented image preprocessing, training and evaluation workflows.
-- Explored ensemble learning for classification performance.
-
-`Python` `TensorFlow` `OpenCV` `MobileNetV2` `EfficientNet` `InceptionV3`
-
----
-
 ## 💼 Professional Experience
 
 **AI/ML Trainee — DataFactZ, Hyderabad**
